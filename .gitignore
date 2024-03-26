@@ -1,0 +1,7 @@
+# Information that will be ignored
+
+milkyway.sh
+
+analysis/data/
+
+*.txt
